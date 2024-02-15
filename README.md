@@ -20,7 +20,7 @@ Projeto elaborado de acordo com as diretrizes especificadas para a Missão Prát
 
 Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://github.com/) instalado em seu dispositivo.
 
-Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório` → `URL` e incluir o caminho `guedesert/backend-sem-banco-nao-tem`.
+Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório` → `URL` e incluir o caminho `guedesert/back-end-sem-banco-nao-tem`.
 
 Além disso, faz-se necessário ter previamente instalado os softwares [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) e [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16#download-ssms), além de uma IDE para desenvolvimento em Java.
 
@@ -88,6 +88,6 @@ Este repositório está licensiado sob a [Licença MIT](./LICENSE).
 
 <div align=center>
 
-[![Licença](https://img.shields.io/github/license/guedesert/backend-sem-banco-nao-tem?style=for-the-badge&color=blue&label=licença)](./LICENSE)
+[![Licença](https://img.shields.io/github/license/guedesert/back-end-sem-banco-nao-tem?style=for-the-badge&color=blue&label=licença)](./LICENSE)
 
 </div>
